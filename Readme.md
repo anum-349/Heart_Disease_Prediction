@@ -1,11 +1,10 @@
----
 ## Machine Learning Model Evaluation: Logistic Regression vs Random Forest
----
+
 
 This project demonstrates how to evaluate and compare two popular classification algorithms — Logistic Regression and Random Forest — using scikit-learn. It includes performance analysis using accuracy, confusion matrix, and classification report, along with visualizations.
 
 ## Project Structure
----
+
 
 ```bash
 .
@@ -18,7 +17,7 @@ This project demonstrates how to evaluate and compare two popular classification
 ```
 
 ## Dependencies
----
+
 
 Make sure you have the following libraries installed:
 
@@ -27,7 +26,7 @@ pip install scikit-learn matplotlib seaborn
 ```
 
 ## How to Run
----
+
 
 Ensure your dataset is cleaned and available in heart_cleaned.csv.
 
@@ -47,7 +46,7 @@ Make sure proj.py defines the dataset as:
 ```
 
 ## Models Trained
----
+
 
 - Logistic Regression
 
@@ -56,7 +55,7 @@ Make sure proj.py defines the dataset as:
 Each model is trained on a 70% training split and evaluated on 30% test data.
 
 ## Metrics & Visuals
----
+
 
 - Accuracy Score
 
@@ -65,7 +64,7 @@ Each model is trained on a 70% training split and evaluated on 30% test data.
 - Classification Report (Precision, Recall, F1-score)
 
 ## Sample Output
----
+
 
 ```text
 Accuracy: 0.89
@@ -82,11 +81,8 @@ Classification Report:
 ```
 
 ## Author
----
 
-Anum Kousar
-📧 anumkousar552@gmail.com
-🔗 # IIUI Shell
 
-[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+**Anum Kousar**
+**anumkousar552@gmail.com**
+**https://www.linkedin.com/in/anum-kousar-984406294/**
