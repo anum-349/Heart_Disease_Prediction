@@ -1,4 +1,4 @@
-###Machine Learning Model Evaluation: Logistic Regression vs Random Forest
+### Machine Learning Model Evaluation: Logistic Regression vs Random Forest
 
 
 This project demonstrates how to evaluate and compare two popular classification algorithms — Logistic Regression and Random Forest — using scikit-learn. It includes performance analysis using accuracy, confusion matrix, and classification report, along with visualizations.
